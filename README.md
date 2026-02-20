@@ -1,16 +1,13 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fullstack+Developer;6+anos+de+experiencia;Building+products,+not+just+features)](https://git.io/typing-svg)
 
-<!--
-**definitivamentelegais-design/definitivamentelegais-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Sobre mim
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const wn = { 
+    pronouns: "he/him",
+    location: "Brazil 🇧🇷",
+    role: "Fullstack Developer",
+    experience: "6 anos",
+    currentFocus: "Building products, not just features",
+    funFact: "Making the web a bit better"
+};
